@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChiragBhattotia
 - 👀 I’m interested in SQL,R,Excel,Python,Data Analysis
-- 🌱 I’m currently learning SQL
+- 
 - 📫 How to reach me https://www.linkedin.com/in/chirag-bhattotia-4448441b4/
 
 <!---
